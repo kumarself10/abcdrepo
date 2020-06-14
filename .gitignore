@@ -1,3 +1,4 @@
-.txt
-.tmp
-.bak
+*.txt
+*.tmp
+*.bak
+hello*.*
